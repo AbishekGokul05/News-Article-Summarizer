@@ -15,7 +15,4 @@
 
 - [NewsPaper](https://pypi.org/project/newspaper3k/) - Simplified python article discovery & extraction.
 
-## Get Feedback
-
-- [Kaggle Account](https://www.kaggle.com/melihemin)
 
